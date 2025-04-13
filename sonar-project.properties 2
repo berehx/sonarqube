@@ -3,6 +3,7 @@ sonar.projectName=python-app-berehx
 sonar.host.url=http://localhost:9090
 sonar.login=sqp_10d20d66be2bb7e2bafcb9ece02fe9753050ccc4
 
+sonar.branch.name=main
 sonar.sources=.
 sonar.sourceEncoding=UTF-8
 sonar.language=py
