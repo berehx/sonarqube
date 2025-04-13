@@ -1,9 +1,8 @@
 sonar.projectKey=python-app-berehx
-sonar.projectName=python-app-berehx
-sonar.host.url=http://localhost:9090
-sonar.login=sqp_10d20d66be2bb7e2bafcb9ece02fe9753050ccc4
+sonar.organization=berehx
+sonar.host.url=http://localhost:9000
+sonar.login=15a7e98b4955d336df4a388c2eaebcbd40e35534
 
-sonar.branch.name=main
+sonar.branch.name=main  # Ensure this is present and correct
 sonar.sources=.
-sonar.sourceEncoding=UTF-8
-sonar.language=py
+sonar.python.version=3.10
